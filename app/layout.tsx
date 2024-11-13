@@ -6,6 +6,7 @@ import { dark, neobrutalism } from '@clerk/themes';
 import { Toaster } from '@/components/ui/toaster';
 import { Magnet } from 'lucide-react';
 import ModalProvider from '@/components/ui/modal-provider';
+import Sidebar from '@/components/Sidebar';
 
 const inter = Inter({ subsets: ['latin'] });
 
